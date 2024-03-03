@@ -461,11 +461,12 @@ caracteres. Obedecemos, assim, à famosa regra das [**80 colunas**][columns].
 
 ## Instalação da Extensão Jupyter Notebook
 
-Durante boa parte das aulas práticas de LAP utilizaremos o sistema Jupyter 
-Notebook como ferramenta de apoio à resolução de exercícios. A utilização de 
+Durante boa parte das aulas práticas de LAP utilizaremos o sistema Jupyter
+Notebook como ferramenta de apoio à resolução de exercícios. A utilização de
 Jupyter Notebook facilita a execução de código dentro do pŕoprio VS Code.
 
 Comece por instalar o `jupyter` no seu computador:
+
 - Em Linux (Debian) ou Windows no WSL:
 
 ```console
@@ -484,13 +485,17 @@ De seguida, deverá instalar o jupyter kernel de `ocaml`:
 opam install jupyter
 ```
 
-Depois deste comando executar com sucesso, deverá associar o kernel instalado com a instalação de jupyter:
+Depois deste comando executar com sucesso, deverá associar o kernel instalado
+com a instalação de jupyter:
 
 ```console
 ocaml-jupyter-opam-genspec
 jupyter kernelspec install --name ocaml-jupyter "$(opam var share)/jupyter"
 ```
 
-Finalmente, deverá instalar a extensão `Jupyter` dentro do VS Code. Dentro do notebook deverá conseguir selecionar o kernel de OCaml previamente instalado. Se todos 
-estes passos forem bem sucessidos, deverá ser capaz de explorar o Jupyter
-Notebook desta primeira semana de aulas práticas.
+Finalmente, deverá instalar a extensão `Jupyter` dentro do VS Code. Dentro do
+notebook deverá conseguir selecionar o kernel de OCaml previamente instalado. Se
+todos estes passos forem bem sucessidos, deverá ser capaz de explorar o [Jupyter
+Notebook desta primeira semana][kick-the-tires] de aulas práticas.
+
+[kick-the-tires]: kick_the_tires.ipynb
