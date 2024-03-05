@@ -144,7 +144,7 @@ sudo apt upgrade -y
 Finalmente, proceda à instalação de alguns pacotes úteis:
 
 ```{console}
-sudo apt intall -y zip unzip build-essential
+sudo apt install -y zip unzip build-essential
 ```
 
 ## Instalação OPAM
@@ -491,6 +491,14 @@ com a instalação de jupyter:
 ```console
 ocaml-jupyter-opam-genspec
 jupyter kernelspec install --name ocaml-jupyter "$(opam var share)/jupyter"
+```
+
+É possível que o último comando, `jupyter kernelspec install`, exija privilégios
+de super utilizador para executar corretamente. Nesse caso, deve utilizar o
+prefixo `sudo`:
+
+```console
+sudo jupyter kernelspec install --name ocaml-jupyter "$(opam var share)/jupyter"
 ```
 
 Finalmente, deverá instalar a extensão `Jupyter` dentro do VS Code. Dentro do
