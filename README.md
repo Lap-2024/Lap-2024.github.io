@@ -28,9 +28,9 @@ O plano para as aulas teóricas é o seguinte:
 
 | Semana | Data | Tópicos | Slides | Exercícios |
 | -------- | -------- | -------- | -------- | -------- |
-| 1  | 6/3   | Apresentação. Logística e avaliação. A história e o futuro das linguagens de programação. |  [slides](slides/LAP%202024-1.pdf)  |  [exercícios](praticas/kick_the_tires.ipynb)  |
+| 1  | 6/3   | Apresentação. Logística e avaliação. A história e o futuro das linguagens de programação. |  [slides](slides/LAP%202024-1.pdf)  |    |
 | 1  | 7/3   | Programação funcional. A linguagem OCaml. Expressões, Variáveis e tipos. Funções biblioteca. Input/Output básico. |  [slides](slides/LAP%202024-2.pdf)  |   |
-| 1  | P   | Instalação das ferramentas. OCaml, Jupyter, VSCode + plugin. |    |   |
+| 1  | P   | Instalação das ferramentas. OCaml, Jupyter, VSCode + plugin. |  [instruções](praticas/install.html)  |  [exercícios](praticas/kick_the_tires.ipynb) |
 | 2  | 13/3  | Definição de Funções. O tipo função. Pré e pós condições. Asserções e testes unitários.  |    |    |
 | 2  | 14/3  | Funções como valores. Composição. Polimorfismo. Inferência de tipos.   |    |   |
 | 2  | P   | Exercícios |    |   |
