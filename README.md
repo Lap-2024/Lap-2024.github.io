@@ -33,7 +33,7 @@ O plano para as aulas teóricas é o seguinte:
 | 1  | P   | Instalação das ferramentas. OCaml, Jupyter, VSCode + plugin. |  [instruções](praticas/install.html)  |  [exercícios](praticas/kick_the_tires.ipynb) |
 | 2  | 13/3  | Definição de Funções. O tipo função. Pré e pós condições. Asserções e testes unitários.  |    |    |
 | 2  | 14/3  | Funções como valores. Composição. Polimorfismo. Inferência de tipos.   |    |   |
-| 2  | P   | Exercícios |    |   |
+| 2  | P   | Exercícios |    | [exercícios](praticas/basic.ipynb)  |
 | 3  | 20/3  | Funções recursivas sobre naturais. Execução por substituição. Pensamento Indutivo vs. pensamento Iterativo.  |    |    |
 | 3  | 21/3  | Tipos estruturados: produtos e registos. Exercícios.  |    |   |
 | 3  | P   | Exercícios |    |   |
