@@ -39,7 +39,7 @@ O plano para as aulas teóricas é o seguinte:
 | 3  | P     | Exercícios |    | [exercícios](praticas/fun.ipynb)  |
 | 4  | 27/3  | Funções recursivas sobre naturais. Execução por substituição. Pensamento Indutivo vs. pensamento Iterativo.   |  [slides](slides/LAP%202024-6.pdf)  |    |
 | 4  | 28/3   | Férias   |    |   |
-| 4  | P   | Exercícios |    |   |
+| 4  | P   | Exercícios |    | [exercícios](praticas/more_fun.ipynb)  |
 | 5  | 3/4   | Tipos estruturados: produtos e registos. Exercícios.   |    |   |
 | 5  | 4/4   | Tipos estruturados: tipos algébricos, pattern matching. Exercícios.    |    |   |
 | 5  | P   | Exercícios. Entrega do primeiro trabalho (5/4). |    |   |
