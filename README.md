@@ -30,27 +30,27 @@ O plano para as aulas teóricas é o seguinte:
 | -------- | -------- | -------- | -------- | -------- |
 | 1  | 6/3   | Apresentação. Logística e avaliação. A história e o futuro das linguagens de programação. |  [slides](slides/LAP%202024-1.pdf)  |    |
 | 1  | 7/3   | Programação funcional. A linguagem OCaml. Expressões, Variáveis e tipos. Funções biblioteca. Input/Output básico. |  [slides](slides/LAP%202024-2.pdf)  |   |
-| 1  | P   | Instalação das ferramentas. OCaml, Jupyter, VSCode + plugin. |  [instruções](praticas/install.html)  |  [exercícios](praticas/kick_the_tires.ipynb) |
-| 2  | 13/3  | Definição de Funções. O tipo função. Pré e pós condições. Asserções e testes unitários.  |  [slides](slides/LAP%202024-3.pdf)  |    |
+| 1  | P     | Instalação das ferramentas. OCaml, Jupyter, VSCode + plugin. |  [instruções](praticas/install.html)  |  [exercícios](praticas/kick_the_tires.ipynb) |
+| 2  | 13/3  | Declaração de nomes; declaração de funções, com e sem parâmetros; Avaliação de expressões por substituição; Funções como valores (primeira vez); Avaliação parcial de funções | [slides](slides/LAP%202024-3.pdf)  |    |
 | 2  | 14/3  | (Não houve aula)    |    |   |
-| 2  | P   | Exercícios |    | [exercícios](praticas/basic.ipynb)  |
+| 2  | P     | Exercícios |    | [exercícios](praticas/basic.ipynb)  |
 | 3  | 20/3  | Funções como valores. Composição. Polimorfismo. Inferência de tipos.  |  [slides](slides/LAP%202024-4.pdf)  |    |
-| 3  | 21/3  | Funções recursivas sobre naturais. Execução por substituição. Pensamento Indutivo vs. pensamento Iterativo. |    |   |
-| 3  | P   | Exercícios |    | [exercícios](praticas/fun.ipynb)  |
-| 4  | 27/3  | Tipos estruturados: produtos e registos. Exercícios.   |    |    |
+| 3  | 21/3  | Tipo função; Polimorﬁsmo; Inferência de tipos. |  [slides](slides/LAP%202024-5.pdf)  |   |
+| 3  | P     | Exercícios |    | [exercícios](praticas/fun.ipynb)  |
+| 4  | 27/3  | Funções recursivas sobre naturais. Execução por substituição. Pensamento Indutivo vs. pensamento Iterativo.   |  [slides](slides/LAP%202024-6.pdf)  |    |
 | 4  | 28/3   | Férias   |    |   |
 | 4  | P   | Exercícios |    |   |
-| 5  | 3/4   | Tipos estruturados: tipos algébricos, pattern matching. Exercícios.   |    |   |
-| 5  | 4/4   | Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.    |    |   |
+| 5  | 3/4   | Tipos estruturados: produtos e registos. Exercícios.   |    |   |
+| 5  | 4/4   | Tipos estruturados: tipos algébricos, pattern matching. Exercícios.    |    |   |
 | 5  | P   | Exercícios. Entrega do primeiro trabalho (5/4). |    |   |
 | 6  | 10/4   | (Não há aula teórica. ExpoFCT)    |    |   |
-| 6  | 11/4   | Programação de ordem superior: map e fold. Exercícios.    |    |   |
+| 6  | 11/4   | Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.    |    |   |
 | 6  | P   | Apoio ao projeto. |    |   |
 | 7  | 17/4   | (Não há aula teórica)   |    |   |
-| 7  | 18/4   | Tipos indutivos. Funções indutivas sobre tipos indutivos.  |    |   |
+| 7  | 18/4   | Programação de ordem superior: map e fold. Exercícios.  |    |   |
 | 7  | P   | Apoio ao projeto. |    |   |
-| 8  | 23/4   | Exemplos de tipos indutivos: Árvores. (Terça que é Quinta)   |    |   |
-| 8  | 24/4   | TBA    |    |   |
+| 8  | 23/4   | Tipos indutivos. Funções indutivas sobre tipos indutivos. (Terça que é Quinta)   |    |   |
+| 8  | 24/4   | Exemplos de tipos indutivos: Árvores.    |    |   |
 | 8  | 27/4, 9h  | Primeiro teste   |    |   |
 | 8  | P   | Exercícios |    |   |
 | 9  | 1/5   | Feriado   |    |   |
