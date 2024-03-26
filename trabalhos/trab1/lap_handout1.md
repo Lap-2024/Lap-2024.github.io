@@ -31,28 +31,18 @@ As linhas e colunas do triângulo são numeradas começando ambas em 0
 encontra na última linha e última coluna terá índices $n - 1$ e $k - 1$.
 
 Cada elemento do triângulo pode ser construído de forma recursiva, utilizando
-apenas informação da linha anterior. Seja ![nk](n_k.jpg) <!--$\binom{n}{k}$-->o elemento da $n$-ésima
+apenas informação da linha anterior. Seja ![nk](n_k.jpg) o elemento da $n$-ésima
 linha, $k$-ésima coluna do triângulo. O valor de tal elemento é dado pela
 seguinte equação:
 
 ![function](function_n_k.jpg)
-<!--
-$$
-\binom{n}{k}\triangleq\left\{
-\begin{array}{ll}
-    1 & \text{se}~n = k = 0\\[1em]
-
-    \binom{n - 1}{k - 1} + \binom{n - 1}{k} & \text{se}~0 < n \wedge 0 \leq k \leq n
-        \end{array}\right.
-$$
--->
 
 ### Tarefa
 
 Neste exercício, a sua tarefa é dividida em duas etapas fundamentais:
 
 1. definir uma função recursiva que recebe dois argumentos inteiros, $n$ e
-  $k$, e devolve o elemento ![nk](n_k.jpg) <!--$\binom{n}{k}$--> do triângulo de Pascal;
+  $k$, e devolve o elemento ![nk](n_k.jpg)  do triângulo de Pascal;
 
 2. definir uma função que recebe um argumento inteiro indicando, o número de
   linhas do triângulo a construir e o imprime no *standard output*.
