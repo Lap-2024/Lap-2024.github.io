@@ -10,6 +10,8 @@ veículo para a compreensão alargada dos conceitos.
 
 * 3 Março 2024: As aulas práticas desta semana são dedicadas à instalação das ferramentas: OCaml, Jupyter, VSCode + plugin. As instruções encontram-se no ficheiro [praticas/install.md](praticas/install.md).
 
+* 26 de Março de 2024: O enunciado do trabalho está disponível no ficheiro [trabalhos/trab1/lap_handout1.md](trabalhos/trab1/lap_handout1.md).
+
 ## Referências
 
 A principal referência para a unidade curricular é o livro "OCaml programming: Correct + Efficient + Beautiful" de Michael R. Clarkson e outros. O livro está disponível online de forma gratuita em [OCaml programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/). Os docentes encorajam a leitura do livro e a realização dos exercícios propostos no mesmo, para além dos propostos nos materiais desta unidade curricular. O livro também dispõe de vídeos das aulas na universidade de Cornell que foram filmadas para o curso de CS3110, durante a pandemia.
