@@ -37,7 +37,7 @@ O plano para as aulas teóricas é o seguinte:
 | 3  | 20/3  | Funções como valores. Composição. Polimorfismo. Inferência de tipos.  |  [slides](slides/LAP%202024-4.pdf)  |    |
 | 3  | 21/3  | Tipo função; Polimorﬁsmo; Inferência de tipos. |  [slides](slides/LAP%202024-5.pdf)  |   |
 | 3  | P     | Exercícios |    | [exercícios](praticas/fun.ipynb)  |
-| 4  | 27/3  | Funções recursivas sobre naturais. Execução por substituição. Pensamento Indutivo vs. pensamento Iterativo.   |  [slides](slides/LAP%202024-6.pdf)  | [trabalho](trabalhos/trab1/lap_handout1.html)   |
+| 4  | 27/3  | Funções recursivas sobre naturais. Pensamento Indutivo vs. pensamento Iterativo.   |  [slides](slides/LAP%202024-6.pdf)  | [trabalho](trabalhos/trab1/lap_handout1.html)   |
 | 4  | 28/3   | Férias   |    |   |
 | 4  | P   | Exercícios |    | [exercícios](praticas/more_fun.ipynb)  |
 | 5  | 3/4   | Tipos estruturados: produtos e registos. Exercícios.   |    |   |
