@@ -1,5 +1,11 @@
 # Projeto 1 --- Pensamento Indutivo
 
+## Informações práticas
+
+* Prazo de entrega: 5 de Abril de 2024, 23:59.
+* Grupo: 2 pessoas, casos excepcionais serão considerados pelos docentes um a um.
+* Entrega: Através do GitHub classroom e avaliado com testes unitários (disponíveis em breve).
+
 ## São Triângulos, Senhor, são Triângulos
 
 O [*Triângulo de Pascal*][pascal] é uma representação matricial dos coeficientes
