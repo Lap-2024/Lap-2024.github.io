@@ -35,7 +35,7 @@ apenas informação da linha anterior. Seja ![nk](n_k.jpg) o elemento da $n$-és
 linha, $k$-ésima coluna do triângulo. O valor de tal elemento é dado pela
 seguinte equação:
 
-![function](function_n_k.jpg)
+![function](function_n_k.png)
 
 ### Tarefa
 
