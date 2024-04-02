@@ -24,6 +24,17 @@ Haverá referências durante as aulas a materiais de outros livros disponíveis 
 
 - "Real World OCaml" de Yaron Minsky, Anil Madhavapeddy e Jason Hickey. O livro está disponível online de forma gratuita em [Real World OCaml](https://dev.realworldocaml.org/).
 
+## Atendimento Docente
+
+Com marcação prévia por e-mail.
+
+| Docente | Horário | E-mail |
+| -------- | -------- | -------- |
+| João Seco | 4ª-feira 17h (Gab. P2/1-II) | joao.seco@fct.unl.pt |
+| Mário Pereira | 2ª-feira 14h (Gab. 239-II) |  mjp.pereira@fct.unl.pt |
+| Fernando Birra | 3ª-feira 16h (Gab. 245-II) | fpb@fct.unl.pt |
+| Diogo Almeida | 5ª-feira 9h (Sala 121A-II) | daro.almeida@campus.fct.unl.pt |
+
 ## Programa
 
 O plano para as aulas teóricas é o seguinte:
