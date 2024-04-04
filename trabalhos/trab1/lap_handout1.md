@@ -2,7 +2,7 @@
 
 ## Informações práticas
 
-* Prazo de entrega: ~~5~~8 de Abril de 2024, 23:59.
+* Prazo de entrega: ~~5~~ 8 de Abril de 2024, 23:59.
 * Grupo: 2 pessoas, casos excepcionais serão considerados pelos docentes um a um.
 * Entrega: Através do GitHub classroom e avaliado com testes unitários (disponíveis em breve).
 
