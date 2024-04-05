@@ -53,14 +53,14 @@ O plano para as aulas teóricas é o seguinte:
 | 4  | 27/3  | Funções recursivas sobre naturais. Pensamento Indutivo vs. pensamento Iterativo.   |  [slides](slides/LAP%202024-6.pdf)  | [trabalho](trabalhos/trab1/lap_handout1.html)   |
 | 4  | 28/3   | Férias   |    |   |
 | 4  | P   | Exercícios |    | [exercícios](praticas/more_fun.ipynb)  |
-| 5  | 3/4   | Tipos estruturados: produtos e registos. Exercícios.   |    |   |
-| 5  | 4/4   | Tipos estruturados: tipos algébricos, pattern matching. Exercícios.    |    |   |
+| 5  | 3/4   | Tipos estruturados: produtos e registos. Exercícios.  | [slides](slides/LAP%202024-7.pdf)  |   |
+| 5  | 4/4   | Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.  |  [slides](slides/LAP%202024-8.pdf)  |   |
 | 5  | P   | Exercícios. Entrega do primeiro trabalho (5/4). |    |   |
 | 6  | 10/4   | (Não há aula teórica. ExpoFCT)    |    |   |
-| 6  | 11/4   | Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.    |    |   |
+| 6  | 11/4   | Tipos estruturados: Programação de ordem superior: map e fold. Exercícios. |    |   |
 | 6  | P   | Apoio ao projeto. |    |   |
 | 7  | 17/4   | (Não há aula teórica)   |    |   |
-| 7  | 18/4   | Programação de ordem superior: map e fold. Exercícios.  |    |   |
+| 7  | 18/4   | Tipos algébricos, pattern matching.   |    |   |
 | 7  | P   | Apoio ao projeto. |    |   |
 | 8  | 23/4   | Tipos indutivos. Funções indutivas sobre tipos indutivos. (Terça que é Quinta)   |    |   |
 | 8  | 24/4   | Exemplos de tipos indutivos: Árvores.    |    |   |
