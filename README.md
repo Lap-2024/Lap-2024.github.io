@@ -41,20 +41,20 @@ O plano para as aulas teóricas é o seguinte:
 
 | Semana | Data | Tópicos | Slides | Exercícios |
 | -------- | -------- | -------- | -------- | -------- |
-| 1  | 6/3   | Apresentação. Logística e avaliação. A história e o futuro das linguagens de programação. |  [slides](slides/LAP%202024-1.pdf)  |    |
-| 1  | 7/3   | Programação funcional. A linguagem OCaml. Expressões, Variáveis e tipos. Funções biblioteca. Input/Output básico. |  [slides](slides/LAP%202024-2.pdf)  |   |
+| 1  | 6/3   | Apresentação. Logística e avaliação. A história e o futuro das linguagens de programação. |  [slides](teoricas/LAP%202024-1.pdf)  |    |
+| 1  | 7/3   | Programação funcional. A linguagem OCaml. Expressões, Variáveis e tipos. Funções biblioteca. Input/Output básico. |  [slides](teoricas/LAP%202024-2.pdf)  |   |
 | 1  | P     | Instalação das ferramentas. OCaml, Jupyter, VSCode + plugin. |  [instruções](praticas/install.html)  |  [exercícios](praticas/kick_the_tires.ipynb) |
-| 2  | 13/3  | Declaração de nomes; declaração de funções, com e sem parâmetros; Avaliação de expressões por substituição; Funções como valores (primeira vez); Avaliação parcial de funções | [slides](slides/LAP%202024-3.pdf)  |    |
+| 2  | 13/3  | Declaração de nomes; declaração de funções, com e sem parâmetros; Avaliação de expressões por substituição; Funções como valores (primeira vez); Avaliação parcial de funções | [slides](teoricas/LAP%202024-3.pdf)  |    |
 | 2  | 14/3  | (Não houve aula)    |    |   |
 | 2  | P     | Exercícios |    | [exercícios](praticas/basic.ipynb)  |
-| 3  | 20/3  | Funções como valores. Composição. Polimorfismo. Inferência de tipos.  |  [slides](slides/LAP%202024-4.pdf)  |    |
-| 3  | 21/3  | Tipo função; Polimorﬁsmo; Inferência de tipos. |  [slides](slides/LAP%202024-5.pdf)  |   |
+| 3  | 20/3  | Funções como valores. Composição. Polimorfismo. Inferência de tipos.  |  [slides](teoricas/LAP%202024-4.pdf)  |    |
+| 3  | 21/3  | Tipo função; Polimorﬁsmo; Inferência de tipos. |  [slides](teoricas/LAP%202024-5.pdf)  |   |
 | 3  | P     | Exercícios |    | [exercícios](praticas/fun.ipynb)  |
-| 4  | 27/3  | Funções recursivas sobre naturais. Pensamento Indutivo vs. pensamento Iterativo.   |  [slides](slides/LAP%202024-6.pdf)  | [trabalho](trabalhos/trab1/lap_handout1.html)   |
+| 4  | 27/3  | Funções recursivas sobre naturais. Pensamento Indutivo vs. pensamento Iterativo.   |  [slides](teoricas/LAP%202024-6.pdf)  | [trabalho](trabalhos/trab1/lap_handout1.html)   |
 | 4  | 28/3   | Férias   |    |   |
 | 4  | P   | Exercícios |    | [exercícios](praticas/more_fun.ipynb)  |
-| 5  | 3/4   | Tipos estruturados: produtos e registos. Exercícios.  | [slides](slides/LAP%202024-7.pdf)  |   |
-| 5  | 4/4   | Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.  |  [slides](slides/LAP%202024-8.pdf)  |   |
+| 5  | 3/4   | Tipos estruturados: produtos e registos. Exercícios.  | [slides](teoricas/LAP%202024-7.pdf)  |   |
+| 5  | 4/4   | Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.  |  [slides](teoricas/LAP%202024-8.pdf)  |   |
 | 5  | P   | Exercícios. Entrega do primeiro trabalho (5/4). |    |   |
 | 6  | 10/4   | (Não há aula teórica. ExpoFCT)    |    |   |
 | 6  | 11/4   | Tipos estruturados: Programação de ordem superior: map e fold. Exercícios. |    |   |
