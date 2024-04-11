@@ -57,7 +57,7 @@ O plano para as aulas teóricas é o seguinte:
 | 5  | 4/4   | Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.  |  [slides](teoricas/LAP%202024-8.pdf)  |   |
 | 5  | P   | Exercícios. Entrega do primeiro trabalho (5/4). |    |   |
 | 6  | 10/4   | (Não há aula teórica. ExpoFCT)    |    |   |
-| 6  | 11/4   | Tipos estruturados: Programação de ordem superior: map e fold. Exercícios. |    |   |
+| 6  | 11/4   | Tipos estruturados: Programação de ordem superior: map e fold. Exercícios. |    |  [Exercícios](teoricas/LAP%202024-9.ipynb) |
 | 6  | P   | Exercícios. | [exercícios](praticas/lists.ipynb)   |   |
 | 7  | 17/4   | (Não há aula teórica)   |    |   |
 | 7  | 18/4   | Tipos algébricos, pattern matching.   |    |   |
