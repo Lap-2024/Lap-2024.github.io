@@ -61,7 +61,7 @@ O plano para as aulas teóricas é o seguinte:
 | 6  | P   | Exercícios. | [exercícios](praticas/lists.ipynb)   |   |
 | 7  | 17/4   | (Não há aula teórica)   |    |   |
 | 7  | 18/4   | Tipos algébricos, pattern matching.   |    |   |
-| 7  | P   | Apoio ao projeto. |    |   |
+| 7  | P   | Exercícios |  [exercícios](praticas/more_lists.ipynb)  |   |
 | 8  | 23/4   | Tipos indutivos. Funções indutivas sobre tipos indutivos. (Terça que é Quinta)   |    |   |
 | 8  | 24/4   | Exemplos de tipos indutivos: Árvores.    |    |   |
 | 8  | 27/4, 9h  | Primeiro teste   |    |   |
