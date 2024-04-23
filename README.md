@@ -65,7 +65,7 @@ O plano para as aulas teóricas é o seguinte:
 | 8  | 23/4   | Tipos indutivos. Funções indutivas sobre tipos indutivos. (Terça que é Quinta)   |    |   |
 | 8  | 24/4   | Exemplos de tipos indutivos: Árvores.    |    |   |
 | 8  | 27/4, 9h  | Primeiro teste   |    |   |
-| 8  | P   | Exercícios |    |   |
+| 8  | P   | Exercícios |  [ficha](praticas/teste_modelo.ipynb)  |   |
 | 9  | 1/5   | Feriado   |    |   |
 | 9  | 2/5   | TBA    |    |   |
 | 9  | P   | Exercícios |    |   |
