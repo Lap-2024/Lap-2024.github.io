@@ -63,11 +63,11 @@ O plano para as aulas teóricas é o seguinte:
 | 7  | 18/4   | Tipos algébricos, pattern matching.   |  [slides](teoricas/LAP%202024-10.pdf)  |   |
 | 7  | P   | Exercícios |  [exercícios](praticas/more_lists.ipynb)  |   |
 | 8  | 23/4   | Tipos indutivos. Funções indutivas sobre tipos indutivos. (Terça que é Quinta)   |    | [Exercícios](teoricas/LAP%202024-11.ipynb)  |
-| 8  | 24/4   | Exemplos de tipos indutivos: Árvores.    |    |   |
+| 8  | 24/4   | Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.    |  [Exercícios](teoricas/LAP%202024-11.ipynb)  |   |
 | 8  | 27/4, 11h30  | Primeiro teste   |    |   |
 | 8  | P   | Exercícios |  [ficha](praticas/teste_modelo.ipynb)  |   |
 | 9  | 1/5   | Feriado   |    |   |
-| 9  | 2/5   | TBA    |    |   |
+| 9  | 2/5   | Sistema de Módulos    |  [slides](teoricas/LAP%202024-10.pdf)  | [Exercícios](teoricas/LAP%202024-12)   |
 | 9  | P   | Exercícios |    |   |
 | 10  | 8/5   | TBA    |    |   |
 | 10  | 9/5   | TBA    |    |   |
