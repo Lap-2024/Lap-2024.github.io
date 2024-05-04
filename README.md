@@ -68,8 +68,6 @@ O plano para as aulas teóricas é o seguinte:
 | 8  | P   | Exercícios |  [ficha](praticas/teste_modelo.ipynb)  |   |
 | 9  | 1/5   | Feriado   |    |   |
 | 9  | 2/5   | Sistema de Módulos    |  [slides](teoricas/LAP%202024-12/LAP%202024-12.pdf)  | [Exercícios](teoricas/LAP%202024-12.zip)   |
-| 9  | P   | Exercícios |    |   |
-| 9  | 2/5   | TBA    |    |   |
 | 9  | P   | Exercícios |    | [exercícios](praticas/pairing_heap.zip)   |
 | 10  | 8/5   | TBA    |    |   |
 | 10  | 9/5   | TBA    |    |   |
