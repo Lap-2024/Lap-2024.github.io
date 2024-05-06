@@ -12,7 +12,7 @@ veículo para a compreensão alargada dos conceitos.
 
 * 26 de Março de 2024: O enunciado do trabalho está disponível no ficheiro [trabalhos/trab1/lap_handout1.md](trabalhos/trab1/lap_handout1.md).
 
-* 5 de Maio de 2024: O enunciado do segundo trabalho está disponível no ficheiro [trabalhos/trab2/lap_handout2.md](trabalhos/trab2/lap_handout2.pdf). O Prazo de entrega é 17 de Maio de 2024.
+* 5 de Maio de 2024: O enunciado do segundo trabalho está disponível no ficheiro [trabalhos/trab2/lap_handout2.pdf](trabalhos/trab2/lap_handout2.pdf). O Prazo de entrega é 17 de Maio de 2024.
 
 ## Referências
 
@@ -70,7 +70,7 @@ O plano para as aulas teóricas é o seguinte:
 | 8  | P   | Exercícios |  [ficha](praticas/teste_modelo.ipynb)  |   |
 | 9  | 1/5   | Feriado   |    |   |
 | 9  | 2/5   | Sistema de Módulos    |  [slides](teoricas/LAP%202024-12/LAP%202024-12.pdf)  | [exercícios](teoricas/LAP%202024-12.zip)   |
-| 9  | P   | Exercícios |    | [exercícios](praticas/pairing_heap.zip)   |
+| 9  | P   | Exercícios |  [trabalho](trabalhos/trab2/lap_handout2.pdf)  | [exercícios](praticas/pairing_heap.zip)   |
 | 10  | 8/5   | TBA    |    |   |
 | 10  | 9/5   | TBA    |    |   |
 | 10  | P   | Exercícios.  |    |   |
