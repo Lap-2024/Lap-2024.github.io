@@ -73,7 +73,7 @@ O plano para as aulas teóricas é o seguinte:
 | 9  | P   | Exercícios |  [trabalho](trabalhos/trab2/lap_handout2.pdf)  | [exercícios](praticas/pairing_heap.zip)   |
 | 10  | 8/5   | TBA    |    |   |
 | 10  | 9/5   | TBA    |    |   |
-| 10  | P   | Exercícios.  |    |   |
+| 10  | P   | Exercícios.  |    | [exercícios](praticas/modules.ipynb)  |
 | 11  | 15/5   | TBA    |    |   |
 | 11  | 16/5   | TBA    |    |   |
 | 11  | P   | Exercícios. Entrega do segundo trabalho (17/5). |    |   |
