@@ -32,7 +32,7 @@ Com marcação prévia por e-mail.
 
 | Docente | Horário | E-mail |
 | -------- | -------- | -------- |
-| João Seco | 4ª-feira 17h (Gab. P2/1-II) | joao.seco@fct.unl.pt |
+| João Costa Seco | 4ª-feira 17h (Gab. P2/1-II) | joao.seco@fct.unl.pt |
 | Mário Pereira | 2ª-feira 14h (Gab. 239-II) |  mjp.pereira@fct.unl.pt |
 | Fernando Birra | 3ª-feira 16h (Gab. 245-II) | fpb@fct.unl.pt |
 | Diogo Almeida | 5ª-feira 9h (Sala 121A-II) | daro.almeida@campus.fct.unl.pt |
@@ -74,7 +74,7 @@ O plano para as aulas teóricas é o seguinte:
 | 10  | 8/5   | Apresentação do segundo trabalho    |  [slides](teoricas/LAP%202024-13.pdf)  |  [trabalho](trabalhos/trab2/lap_handout2.pdf) |
 | 10  | 9/5   | Mutabilidade de dados. Memoization    |  [slides](teoricas/LAP%202024-14.pdf)  |   |
 | 10  | P   | Exercícios.  |    | [exercícios](praticas/modules.ipynb)  |
-| 11  | 15/5   | TBA    |    |   |
+| 11  | 15/5   | I/O Assíncrono, Concorrência, Promessas    |  [slides](teoricas/LAP%202024-15.pdf)  |   |
 | 11  | 16/5   | TBA    |    |   |
 | 11  | P   | Exercícios. Entrega do segundo trabalho (17/5). |    |   |
 | 12  | 22/5   | TBA    |    |   |
