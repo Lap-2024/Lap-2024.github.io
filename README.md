@@ -14,6 +14,8 @@ veículo para a compreensão alargada dos conceitos.
 
 * 5 de Maio de 2024: O enunciado do segundo trabalho está disponível no ficheiro [trabalhos/trab2/lap_handout2.pdf](trabalhos/trab2/lap_handout2.pdf). O Prazo de entrega é 17 de Maio de 2024.
 
+* 17 de Maio de 2024: O enunciado do terceiro trabalho está disponível no ficheiro [trabalhos/trab3/lap_handout3.pdf](trabalhos/trab3/lap_handout3.pdf). O Prazo de entrega é 31 de Maio de 2024.
+
 ## Referências
 
 A principal referência para a unidade curricular é o livro "OCaml programming: Correct + Efficient + Beautiful" de Michael R. Clarkson e outros. O livro está disponível online de forma gratuita em [OCaml programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/). Os docentes encorajam a leitura do livro e a realização dos exercícios propostos no mesmo, para além dos propostos nos materiais desta unidade curricular. O livro também dispõe de vídeos das aulas na universidade de Cornell que foram filmadas para o curso de CS3110, durante a pandemia.
@@ -75,12 +77,12 @@ O plano para as aulas teóricas é o seguinte:
 | 10  | 9/5   | Mutabilidade de dados. Memoization    |  [slides](teoricas/LAP%202024-14.pdf)  |   |
 | 10  | P   | Exercícios.  |    | [exercícios](praticas/modules.ipynb)  |
 | 11  | 15/5   | I/O Assíncrono, Concorrência, Promessas    |  [slides](teoricas/LAP%202024-15.pdf)  |   |
-| 11  | 16/5   | TBA    |    |   |
+| 11  | 16/5   | Functional Reactive Programming    |  [slides](teoricas/LAP%202024-16.pdf)  |   |
 | 11  | P   | Exercícios. Entrega do segundo trabalho (17/5). |    |   |
-| 12  | 22/5   | TBA    |    |   |
-| 12  | 23/5   | TBA    |    |   |
+| 12  | 22/5   | Esclarecimentos sobre o projeto    |    |   |
+| 12  | 23/5   | Interpretadores    |    |   |
 | 12  | P   | Exercícios |    |   |
-| 13  | 29/5   | TBA    |    |   |
+| 13  | 29/5   | Exercícios    |    |   |
 | 13  | 30/5   | Feriado    |    |   |
 | 13  | P   | Exercícios, Entrega do último trabalho (31/5). |    |   |
 | 14  | 3/6, 17h  | Segundo teste    |    |   |
