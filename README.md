@@ -79,8 +79,8 @@ O plano para as aulas teóricas é o seguinte:
 | 11  | 15/5   | I/O Assíncrono, Concorrência, Promessas    |  [slides](teoricas/LAP%202024-15.pdf)  |   |
 | 11  | 16/5   | Functional Reactive Programming    |  [slides](teoricas/LAP%202024-16.pdf)  |   |
 | 11  | P   | Exercícios. Entrega do segundo trabalho (17/5). |    |   |
-| 12  | 22/5   | Esclarecimentos sobre o projeto    |  [slides](teoricas/LAP%202024-17.pdf)  |   |
-| 12  | 23/5   | Interpretadores    |  [slides](teoricas/LAP%202024-18.pdf)  |   |
+| 12  | 22/5   | Esclarecimentos sobre o terceiro trabalho    |  [slides](teoricas/LAP%202024-17.pdf)  |  [trabalho](trabalhos/trab3/lap_handout3.pdf) |
+| 12  | 23/5   | Interpretadores    |  [slides](teoricas/LAP%202024-18.pdf)  |  [exercícios](teoricas/LAP%202024-18.ipynb) |
 | 12  | P   | Exercícios |    |   |
 | 13  | 29/5   | Exercícios    |    |   |
 | 13  | 30/5   | Feriado    |    |   |
