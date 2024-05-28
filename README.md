@@ -68,7 +68,7 @@ O plano para as aulas teóricas é o seguinte:
 | 7  | P   | Exercícios |  [exercícios](praticas/more_lists.ipynb)  |   |
 | 8  | 23/4   | Tipos indutivos. Funções indutivas sobre tipos indutivos. (Terça que é Quinta)   |    | [exercícios](teoricas/LAP%202024-11.ipynb)  |
 | 8  | 24/4   | Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.    |  [exercícios](teoricas/LAP%202024-11.ipynb)  |   |
-| 8  | 27/4, 11h30  | Primeiro teste   |  [teste resolvido](teoricas/teste.ipynb)  |   |
+| 8  | 27/4, 11h30  | Primeiro teste   |  [teste resolvido](teoricas/primeiro%20teste%20resolvido.ipynb)  |   |
 | 8  | P   | Exercícios |  [ficha](praticas/teste_modelo.ipynb)  |   |
 | 9  | 1/5   | Feriado   |    |   |
 | 9  | 2/5   | Sistema de Módulos    |  [slides](teoricas/LAP%202024-12/LAP%202024-12.pdf)  | [exercícios](teoricas/LAP%202024-12.zip)   |
@@ -85,6 +85,6 @@ O plano para as aulas teóricas é o seguinte:
 | 13  | 29/5   | Exercícios    |    |   |
 | 13  | 30/5   | Feriado    |    |   |
 | 13  | P   | Exercícios, Entrega do último trabalho (31/5). |    |   |
-| 14  | 3/6, 17h  | Segundo teste    |    |   |
+| 14  | 3/6, 17h  | Segundo teste    |  [teste exemplo](teoricas/mock%20segundo%20teste.ipynb)  |   |
 
 (As datas dos trabalhos e testes são provisórias e podem ser alteradas.)
