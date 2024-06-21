@@ -85,6 +85,6 @@ O plano para as aulas teóricas é o seguinte:
 | 13  | 29/5   | Exercícios    |    |   |
 | 13  | 30/5   | Feriado    |    |   |
 | 13  | P   | Exercícios, Entrega do último trabalho (31/5). |    |   |
-| 14  | 3/6, 17h  | Segundo teste    |  [teste exemplo](teoricas/mock%20segundo%20teste.ipynb)  |   |
+| 14  | 3/6, 17h  | Segundo teste    |  [teste exemplo](teoricas/mock%20segundo%20teste.ipynb), [teste resolvido](teoricas/segundo%20teste%20resolvido.ipynb) |   |
 
 (As datas dos trabalhos e testes são provisórias e podem ser alteradas.)
